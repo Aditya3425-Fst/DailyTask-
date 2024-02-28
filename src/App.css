@@ -1,0 +1,22 @@
+.habit{
+  border: 2px solid black;
+  height: auto;
+  width: 50vw;
+  margin:auto;
+  margin-top: 25vh;
+  border-radius: 20px;
+  background-image: repeating-linear-gradient(rgb(233, 62, 62),rgb(237, 237, 73));
+  
+
+}
+body{
+  background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMjItbWluZC0xNl8xLmpwZw.jpg);
+}
+.maker{
+  margin-left: 45vw;
+  margin-top: 50px;
+  border: 2px solid black;
+  margin-right: 45vw;
+  background-color: aquamarine;
+  
+}
